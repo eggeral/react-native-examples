@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    {
+      "id": "az32oq",
+      "brand": "Mercedes",
+      "color": "Red",
+      "year": 2010
+    },
+    {
+      "id": "ddsdsa78",
+      "brand": "VW",
+      "color": "Green",
+      "year": 2018
+    },
+    {
+      "id": "8989sdfaf",
+      "brand": "Ford",
+      "color": "Blue",
+      "year": 2005
+    },
+    {
+      "id": "Adf",
+      "brand": "Asdf",
+      "color": "Asd",
+      "year": "Asdf"
+    }
+  ]
+}

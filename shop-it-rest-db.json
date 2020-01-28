@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "Milch",
+      "id": 1
+    },
+    {
+      "name": "Eier",
+      "id": 3
+    },
+    {
+      "name": "Butter",
+      "id": 4
+    }
+  ]
+}
