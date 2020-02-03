@@ -1,11 +1,11 @@
 import { itemsStore } from './ItemsStore';
 
-const server = "192.168.134.82"
+const server = "http://147efc81.ngrok.io"
 
 export class ItemsService {
   constructor(server, itemsStore) {
     this.itemsStore = itemsStore;
-    this.api = 'http://' + server + ':3000/items';
+    this.api = server + '/items';
   }
 
   get() {

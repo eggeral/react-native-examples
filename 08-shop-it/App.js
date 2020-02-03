@@ -89,7 +89,4 @@ const styles = StyleSheet.create({
     flex: 1
   },
 
-  addItemsButton: {
-    width: 50
-  }
 });
