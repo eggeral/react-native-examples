@@ -80,7 +80,8 @@ export class NumberInput extends Component {
   // State changes are reported from the child to the parent using functions (events) which are in fact
   // also just props.
   render() {
-    return <TextInput placeholder={this.props.placeholder} value={this.textValue(this.props.value)} onChangeText={(value) => this.setValue(value)} ></TextInput>
+    return <TextInput placeholder={this.props.placeholder} value={this.textValue(this.props.value)} 
+    onChangeText={(value) => this.setValue(value)} ></TextInput>
   }
 
   textValue(value) {

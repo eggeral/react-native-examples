@@ -3,6 +3,9 @@
 // expo install react-navigation
 // expo install react-native-gesture-handler
 // expo install react-navigation-stack
+// expo install react-native-screens
+// expo install react-native-safe-area-context
+// expo install @react-native-community/masked-view
 
 import MasterScreen from './src/component/MasterScreen'
 import DetailScreen from './src/component/DetailScreen'

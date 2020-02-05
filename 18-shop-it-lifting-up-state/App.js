@@ -64,8 +64,6 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <AddItem
-          itemText={this.state.addItemText}
-          onChangeText={newText => this.setState({ addItemText: newText })}
           onAdd={item => this.createItem(item)}
         >
         </AddItem>
